@@ -49,7 +49,8 @@ class Book_DBAdmin(admin.ModelAdmin):
 
 ## OUTPUT
 
-![alt text](<Screenshot 2024-03-05 112537.png>)
+![Screenshot 2024-03-13 104326](https://github.com/jayahari10001/ORM/assets/115681467/248d896c-90e5-4345-add3-eb6116a0b22c)
+
 
 ## RESULT
 Thus the program for creating a database using ORM hass been executed successfully
